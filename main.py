@@ -16,6 +16,6 @@ def token(text):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(token('-54   * 3-47 =1eq  2=3'))
+    print(token('3+2^4-2/7'))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

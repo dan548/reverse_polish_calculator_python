@@ -11,7 +11,7 @@ operations = {
     'floor': lambda x: math.floor(x),
     'ceil': lambda x: math.ceil(x),
     'round': lambda x: round(x),
-    '^': lambda x, y: x ^ y,
+    '^': lambda x, y: x ** y,
     '*': lambda x, y: x * y,
     '/': lambda x, y: x / y,
     '+': lambda x, y: x + y,
